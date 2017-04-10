@@ -2,7 +2,7 @@
   "name": "otiyan",
   "version": "1.0.0",
   "description": "it's just a study project",
-  "main": "www",
+  "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/raycdut/OTiYan/issues"
   },
-  "homepage": "https://github.com/raycdut/OTiYan#readme"
+  "homepage": "https://github.com/raycdut/OTiYan#readme",
+  "devDependencies": {
+    "typescript": "^2.2.2"
+  }
 }
