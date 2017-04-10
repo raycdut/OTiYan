@@ -4,7 +4,7 @@
   "description": "it's just a study project",
   "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node ./server/bin/www"
   },
   "repository": {
     "type": "git",
@@ -24,6 +24,10 @@
   },
   "homepage": "https://github.com/raycdut/OTiYan#readme",
   "devDependencies": {
+    "typescript": "^2.2.2"
+  },
+  "dependencies": {
+    "express": "^4.15.2",
     "typescript": "^2.2.2"
   }
 }
