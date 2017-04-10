@@ -1,0 +1,26 @@
+{
+  "name": "otiyan",
+  "version": "1.0.0",
+  "description": "it's just a study project",
+  "main": "www",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raycdut/OTiYan.git"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "angular2",
+    "typescript",
+    "mongodb"
+  ],
+  "author": "chen, dong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/raycdut/OTiYan/issues"
+  },
+  "homepage": "https://github.com/raycdut/OTiYan#readme"
+}
